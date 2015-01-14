@@ -5,7 +5,7 @@
  * Include definitions of MATSIZE, STRINGSIZE and enum set containing constants ADD, SUBTRACT and MULTIPLY here
  */
  #define MATSIZE 5
- #define STRINGSIZE 10
+ #define STRINGSIZE 15
 void printMatrix(int matrix[MATSIZE][MATSIZE]);
 void readMatrix(char filename[MATSIZE]);
 void add(int matrix1[MATSIZE][MATSIZE], int matrix2[MATSIZE][MATSIZE]);
