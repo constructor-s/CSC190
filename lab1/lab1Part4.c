@@ -25,7 +25,11 @@ int determinant(int n, int matrix[n][n])
 
     int det, i, j, k, k1;
     int reduced[n-1][n-1];
-    if (n == 2)
+    if (n==1)
+    {
+        det = matrix[0][0];
+    }
+    else if (n == 2)
     {
         det = matrix[0][0] * matrix[1][1] - matrix[0][1] * matrix [1][0];
     }
