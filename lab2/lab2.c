@@ -14,14 +14,12 @@ void initMatrix(int ***mat,int n)
             for (j = 0; j < n; j++)
             {
                 matrix[i][j] = 0;
-                //printf("%d\n", matrix[i][j] = 0);
             }
                 
         }
     }
+    
     *mat = matrix;
-    //printf("%p\n", &matrix[0][0]);
-    //printf("%p\n", mat);
 }
 
 void freeMatrix(int n, int ** matrix)
@@ -38,8 +36,7 @@ int **readMatrix(char * filename)
 {
     int **matrix;
     initMatrix(&matrix,MATSIZE);
-    //matrix = *p;
-    //printf("%p\n", &matrix[0][0]);
+    
     FILE *fp=fopen(filename, "r");
     int i = 0, j = 0;
     for (i = 0; i < MATSIZE; i++)
@@ -53,7 +50,6 @@ int **readMatrix(char * filename)
     }
     fclose(fp);
     
-    //printMatrix(MATSIZE, matrix);
     return matrix;
 }
 
@@ -67,7 +63,6 @@ void printMatrix(int n, int ** A)
         {
             printf("%d ", A[i][j]);
         }
-        
         printf("\n");
     }
     

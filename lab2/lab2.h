@@ -1,6 +1,8 @@
 /*
  * Include necessary libraries (stdio.h and stdlib.h)
  */
+#include <stdio.h>
+#include <stdlib.h>
 
 #define MATSIZE		5
 
