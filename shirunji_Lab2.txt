@@ -1,0 +1,16 @@
+Code has compiled
+Memory leak check with valgrind: 4/4
+Resulting output for Part 1 is correct: 3/3
+
+Resulting output for Part 2 is correct: 1/1
+
+Resulting output for Part 3_1 is correct: 2/2
+
+Resulting output for Part 3_2 is correct: 2/2
+
+Total grade for expected output: 12/12
+Grade for code content: 8/8
+Total grade for Lab 2 is 20/20
+Bonus Marks for submission through git: 0.5
+Submission is on time.
+ Final grade for Lab 2 is 20.5/20
