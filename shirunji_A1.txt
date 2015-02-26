@@ -1,0 +1,22 @@
+Code has compiled: 3/3
+Implementation has no memory leaks: 1/1
+Resulting output for Part 1 is correct: 2/2
+
+Implementation has no memory leaks: 1/1
+Resulting output for Part 2 is correct: 2/2
+
+Implementation has no memory leaks: 1/1
+Resulting output for Part 3_1 is correct: 2/2
+
+Implementation has no memory leaks: 1/1
+Resulting output for Part 3_2 is correct: 2/2
+
+Implementation has no memory leaks: 8/8
+Resulting output for Part 4 is correct: 7/7
+
+Total grade for expected output: 30/30
+Grade for code content: 10/10
+Total grade for Assignment 1 is 40/40
+Bonus Marks for submission through git: 1
+Submission is on time.
+ Final grade for Assignment 1 is 41/40
