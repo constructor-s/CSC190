@@ -53,11 +53,10 @@ void freeQueue(struct Queue *qPtr)
 {
     struct Node * temp = qPtr->front;
     struct Node * prev;
-    while (temp != qPtr->rear)
+    while (temp != NULL)
     {
         prev = temp;
         temp = prev->next;
         free(prev);
     }
-    free(temp);
 }
