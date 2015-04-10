@@ -1,0 +1,17 @@
+Compilation message:
+
+Code has compiled: 3/3
+Valgrind run did produce expected results for Part 1: 1/1
+Implementation has no memory leaks: 3/3
+Resulting output for Part 1 is correct: 4/4
+
+Valgrind run did produce expected results for Part 2: 1/1
+Implementation has no memory leaks: 6/6
+Resulting output for Part 2 is correct: 12/12
+
+Total grade for expected output: 30/30
+Grade for code content: 10/10
+Total grade for Assignment 2 is 40/40
+Bonus Marks for submission through git: 0.5
+Submission is on time.
+ Final grade for Assignment 2 is 40.5/40
