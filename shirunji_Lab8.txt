@@ -1,0 +1,12 @@
+Compilation message:
+
+Code has compiled: 2/2
+Implementation has no memory leaks: 5/5
+Resulting output for Part 1 is correct: 5/5
+
+Total grade for expected output: 12/12
+Grade for code content: 8/8
+Total grade for Lab 8 is 20/20
+Bonus Marks for submission through git: 0.5
+Submission is on time.
+ Final grade for Lab 8 is 20.5/20
